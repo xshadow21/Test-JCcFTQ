@@ -1,0 +1,8 @@
+
+\.idea/
+.vs/
+\.vscode/
+\.well-known/
+cgi-bin/
+.DS_Store
+/__pycache__
